@@ -28,7 +28,7 @@ paginate: 5
 
 # system variables, do not change unless you knew what's it does.
 paginate_path: page/:num
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
 kramdown:
   extensions: ["tables"]
