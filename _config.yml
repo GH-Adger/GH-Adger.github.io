@@ -29,8 +29,8 @@ paginate: 5
 # system variables, do not change unless you knew what's it does.
 paginate_path: page/:num
 highlighter: pygments
-markdown: redcarpet
-redcarpet:
+markdown: kramdown
+kramdown:
   extensions: ["tables"]
 
 defaults:
